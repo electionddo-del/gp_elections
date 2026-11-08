@@ -1,0 +1,7 @@
+{
+  "name": "Panchayat Election Management System",
+  "description": "Comprehensive Panchayat Election portal covering division and mandal hierarchy, reservation enforcement, nomination filing, scrutiny, withdrawal, by-hourly polling turnout tracking, round-wise vote counting, and official result sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

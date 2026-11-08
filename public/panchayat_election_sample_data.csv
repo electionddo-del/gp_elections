@@ -1,0 +1,27 @@
+District,Division,Mandal,Gram_Panchayat,Sarpanch_Reservation,Ward_Number,Ward_Reservation,Male_Voters,Female_Voters,Other_Voters,Total_Voters,Polling_Station_No,Polling_Station_Name,DEO_Name,DEO_Employee_ID,DEO_Designation,DEO_Mobile_Number
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,1,SC,182,194,1,377,PS-01,MPPS East Wing Room 1,K. Venkatesh,DEO-4821,Junior Assistant / BLO,9848011221
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,2,SC_W,165,172,0,337,PS-01,MPPS East Wing Room 1,S. Lakshmi Devi,DEO-3312,Anganwadi Supervisor / BLO,9848011222
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,3,BC,210,205,2,417,PS-02,MPPS West Wing Room 2,M. Ramanjaneyulu,DEO-7741,Village Revenue Officer (VRO),9848011223
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,4,BC_W,198,202,0,400,PS-02,MPPS West Wing Room 2,P. Sunitha,DEO-5591,Panchayat Assistant / DEO,9848011224
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,5,GEN,225,218,1,444,PS-03,ZPHS Main Block Hall 1,G. Raghavendra,DEO-6602,Panchayat Secretary Gr-IV,9848011225
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,6,GEN_W,208,214,0,422,PS-03,ZPHS Main Block Hall 1,T. Bhavani,DEO-8812,Agriculture Extension Officer,9848011226
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,7,ST,145,152,0,297,PS-04,Grama Sachivalayam Hall,B. Mallikarjuna,DEO-9921,Revenue Inspector (RI),9848011227
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Gorantla Gram Panchayat,BC_W,8,GEN,230,226,1,457,PS-04,Grama Sachivalayam Hall,C. Surekha,DEO-1204,School Assistant / BLO,9848011228
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Banavasi Gram Panchayat,GEN,1,GEN,210,195,0,405,PS-05,Govt Primary School Banavasi,V. Suresh,DEO-2101,Junior Assistant,9848011231
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Banavasi Gram Panchayat,GEN,2,GEN_W,195,200,0,395,PS-05,Govt Primary School Banavasi,K. Anitha,DEO-2102,Anganwadi Worker,9848011232
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Banavasi Gram Panchayat,GEN,3,BC,185,190,1,376,PS-06,ZPHS Banavasi South,D. Ramesh,DEO-2103,VRO,9848011233
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Banavasi Gram Panchayat,GEN,4,BC_W,170,180,0,350,PS-06,ZPHS Banavasi South,M. Padmaja,DEO-2104,Panchayat Assistant,9848011234
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Banavasi Gram Panchayat,GEN,5,SC,160,165,0,325,PS-07,Community Hall Banavasi,P. Ravi,DEO-2105,Teacher / BLO,9848011235
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Banavasi Gram Panchayat,GEN,6,SC_W,155,160,0,315,PS-07,Community Hall Banavasi,T. Sujatha,DEO-2106,Health Worker / ANM,9848011236
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Venkatapuram Gram Panchayat,SC,1,SC,175,180,0,355,PS-08,MPPS Venkatapuram,J. Prasad,DEO-3101,Junior Assistant,9848011241
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Venkatapuram Gram Panchayat,SC,2,SC_W,168,172,0,340,PS-08,MPPS Venkatapuram,N. Mary,DEO-3102,Asha Worker,9848011242
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Venkatapuram Gram Panchayat,SC,3,BC,190,185,1,376,PS-09,Panchayat Office Hall,Y. Srinivas,DEO-3103,VRO,9848011243
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Venkatapuram Gram Panchayat,SC,4,GEN,210,205,0,415,PS-09,Panchayat Office Hall,G. Govind,DEO-3104,Teacher,9848011244
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Venkatapuram Gram Panchayat,SC,5,GEN_W,198,202,0,400,PS-10,Anganwadi Center Room 1,K. Rekha,DEO-3105,Anganwadi Worker,9848011245
+Kurnool District,Adoni Revenue Division,Yemmiganur Mandal,Venkatapuram Gram Panchayat,SC,6,BC_W,180,185,0,365,PS-10,Anganwadi Center Room 1,S. Vani,DEO-3106,Panchayat Assistant,9848011246
+Kurnool District,Kurnool Revenue Division,Kodumur Mandal,Pyalakurthy Gram Panchayat,GEN_W,1,GEN,220,215,1,436,PS-11,MPPS Pyalakurthy Main,R. Krishna,DEO-4101,Junior Assistant,9848011251
+Kurnool District,Kurnool Revenue Division,Kodumur Mandal,Pyalakurthy Gram Panchayat,GEN_W,2,GEN_W,205,210,0,415,PS-11,MPPS Pyalakurthy Main,B. Geetha,DEO-4102,Teacher / BLO,9848011252
+Kurnool District,Kurnool Revenue Division,Kodumur Mandal,Pyalakurthy Gram Panchayat,GEN_W,3,BC,195,190,0,385,PS-12,ZPHS Pyalakurthy,M. Naresh,DEO-4103,VRO,9848011253
+Kurnool District,Kurnool Revenue Division,Kodumur Mandal,Pyalakurthy Gram Panchayat,GEN_W,4,BC_W,185,192,0,377,PS-12,ZPHS Pyalakurthy,L. Shobha,DEO-4104,Panchayat Assistant,9848011254
+Kurnool District,Kurnool Revenue Division,Kodumur Mandal,Pyalakurthy Gram Panchayat,GEN_W,5,SC,165,170,0,335,PS-13,Community Hall,P. Mohan,DEO-4105,Revenue Inspector,9848011255
+Kurnool District,Kurnool Revenue Division,Kodumur Mandal,Pyalakurthy Gram Panchayat,GEN_W,6,ST,140,145,0,285,PS-13,Community Hall,C. Raju,DEO-4106,Village Surveyor,9848011256
